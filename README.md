@@ -64,3 +64,8 @@ c_speed = 30/3.6
 ```
 
 c_speed, dt, v_ref, tmsleep() are mutually depend on each other. Need to be tuned simultaneously
+
+### NOTE
+Ferenet path planning is trajectory replanning technique.\
+"shortpath" abbreviation is technique using local short path slice from full global to reduce computation cost.\
+"shortestgap" have a technque of finding desired waypoint for follower robot at fixed distance from leader, but on the same trajectory.\
