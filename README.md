@@ -1,10 +1,10 @@
 # multi_agent_matlibplot_sim
 
 MPC
-![Alt text](https://github.com/rishabhdevyadav/multi_agent_matlibplot_sim/blob/main/gif/MPC.gif)
+![Alt text](https://github.com/rishabhdevyadav/multi_robot_matlibplot_simulation/blob/main/gif/MPC.gif)
 
 PID
-![Alt text](https://github.com/rishabhdevyadav/multi_agent_matlibplot_sim/blob/main/gif/PID.gif)
+![Alt text](https://github.com/rishabhdevyadav/multi_robot_matlibplot_simulation/blob/main/gif/PID.gif)
 
 Virtual Structure Formation Control
 ![Alt text](https://github.com/rishabhdevyadav/multi_robot_matlibplot_simulation/blob/main/gif/Virtual_structure.gif)
